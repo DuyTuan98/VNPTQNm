@@ -1354,7 +1354,7 @@ p.author{
 		display: none;
 	}
 	.logo{
-		display: inline-block;
+		/* display: inline-block; */
 		width: 120px;
 	}
 	.block-slider .carousel-item a{
